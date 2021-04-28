@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Azmulhaq.
+- 👀 I’m interested in Automation.
+- 🌱 I’m currently learning Selenium, Appium, Api Automation and JMeter.
